@@ -22,13 +22,15 @@ Thank you for contributing to Apache Flink Jira Bot.
 Please follow the Flink contribution guide:
 https://flink.apache.org/how-to-contribute/contribute-code/
 
-Link the corresponding Jira issue below. Documentation typo fixes do not
-require a Jira issue.
+Link the corresponding Jira issue below.
+
+Trivial hotfixes, such as typos or syntax errors, need no Jira issue.
+Use a title in the form "[hotfix] Description".
 -->
 
 ## Purpose of the change
 
-<!-- Link the Jira issue and explain the problem this change addresses. -->
+<!-- Link the Jira issue (if any) and explain the problem this change addresses. -->
 
 ## Brief change log
 
